@@ -1,0 +1,13 @@
+hna andir had les bib lax sal7fa-inverse
+
+
+
+dotenv : hial li kat5lina n9ra .ev files
+
+
+
+cors : kat5lina nfitchiw les donnees mn server
+
+
+
+// had dev dial devlopemment kandiroha l div w kandiro nodemon inde.js ana knt kan9lbhom amma startdial l5dma z3ma mnin nsali kandiro fiha 4ir index.js
